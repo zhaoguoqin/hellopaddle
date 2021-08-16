@@ -1,2 +1,0 @@
-# hellopaddle
-first use paddle
